@@ -8,4 +8,4 @@ The experimental, groundbreaking cryptocurrency. X57-Coin was originally just a 
 
 I've already contacted several exchanges requesting to be listed. Sorry if the initial blockchain sync is a bit buggy, and the GUI client's a bit rough!
 
-[Download Windows Wallet](https://github.com/cryptonovator/cryptonovator.github.io/blob/master/x57coin.zip?raw=true)
+[Download Windows Wallet](https://github.com/cryptonovator/cryptonovator.github.io/releases/tag/0.1)
